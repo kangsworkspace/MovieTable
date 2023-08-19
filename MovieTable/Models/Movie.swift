@@ -2,12 +2,12 @@
 //  Movie.swift
 //  MovieTable
 //
-//  Created by Kang on 2023/08/18.
+//  Created by Kang on 2023/08/19.
 //
 
 import UIKit
 
-// Movie 데이터 형식 결정
+// 영화의 데이터 형식
 struct Movie {
     var movieImage: UIImage?
     let movieName: String
